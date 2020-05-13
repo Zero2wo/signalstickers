@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[45],{"./node_modules/refractor/lang/git.js":function(e,m,t){"use strict";function n(e){e.languages.git={comment:/^#.*/m,deleted:/^[-–].*/m,inserted:/^\+.*/m,string:/("|')(?:\\.|(?!\1)[^\\\r\n])*\1/m,command:{pattern:/^.*\$ git .*$/m,inside:{parameter:/\s--?\w+/m}},coord:/^@@.*@@$/m,commit_sha1:/^commit \w{40}$/m}}e.exports=n,n.displayName="git",n.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_git-5846816cfb496c7305a1.js.map

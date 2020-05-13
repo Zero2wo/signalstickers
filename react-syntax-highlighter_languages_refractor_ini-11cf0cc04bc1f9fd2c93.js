@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[60],{"./node_modules/refractor/lang/ini.js":function(n,t,e){"use strict";function i(n){n.languages.ini={comment:/^[ \t]*[;#].*$/m,selector:/^[ \t]*\[.*?\]/m,constant:/^[ \t]*[^\s=]+?(?=[ \t]*=)/m,"attr-value":{pattern:/=.*/,inside:{punctuation:/^[=]/}}}}n.exports=i,i.displayName="ini",i.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_ini-11cf0cc04bc1f9fd2c93.js.map
